@@ -1,0 +1,41 @@
+HTML Tags:
+- <html>
+- <head>
+- <meta>
+- <link>
+- <title>
+- <body>
+- <section>
+- <h1>
+- <img>
+- <p>
+- <a>
+- <ul>
+- <li>
+- <div>
+- <footer>
+
+CSS Properties:
+- color
+- background-color
+- font-family
+- font-size
+- margin
+- padding
+- text-align
+- list-style
+- gap
+- justify-content
+- align-items
+- height
+- overflow
+- border-radius
+- object-fit
+- display
+
+JavaScript and Bootstrap Description:
+JavaScript:
+JavaScript is used to dynamically load the navigation and footer content into each HTML page using XMLHttpRequest (XHR) to avoid repetition of code.
+
+Bootstrap:
+Bootstrap is used to style the HTML elements and create responsive layouts across different screen sizes. It provides CSS classes for styling and JavaScript plugins for interactive components like dropdowns and modals.
